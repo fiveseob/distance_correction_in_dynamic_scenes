@@ -77,7 +77,7 @@ And repeat
 I am looking for someone to help with this project. Please advise and point out.  
 
 ## Authors
-  - [Always0ne](https://github.com/2dongheee) - **Dong-Hyun Lee** - <2donghyun@inha.edu>
+  #- [Always0ne](https://github.com/2dongheee) - **Dong-Hyun Lee** - <2donghyun@inha.edu>
 
 See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
 who participated in this project.
