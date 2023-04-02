@@ -54,20 +54,14 @@ The purpose of this project is to proceed with the CVLab project.
 -->
 ### Environment
  - Pytorch 1.6
-<!-- A step by step series of examples that tell you how to get a development 
-env running
-
-Say what the step will be
-
-    Give the example
-
-And repeat
-
-    until finished
--->
-1. ''''
-2. ''''
-3. Update later
+ - CUDA 10.2/11.0
+ - cuDNN 7.6.5
+ - ROSVERSION 1.14.5
+ - tensorRT 7.0.0.11
+ - OPENCV 3.2.0
+ - scipy 1.2.3
+ - python 2.7.17
+ 
 <!--
 ## Deployment
  Add additional notes about how to deploy this on a live system
