@@ -1,0 +1,13 @@
+# output dir
+*.jpg
+*.png
+
+# pytorch
+*.pth
+
+# project dirs
+weight/
+
+
+
+
